@@ -1,4 +1,3 @@
 # VipFinder
 
-finds Vip Numbers from a given numberlist by
-recurrent and consecutive numbers
+Findet Telefonnummern mit ab-/aufsteigender Folge und nebenstehende wiederholende Ziffern 
